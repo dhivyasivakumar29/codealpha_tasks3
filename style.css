@@ -1,0 +1,70 @@
+.sec1{
+ background-color: rgba(255, 228, 196, 0.515);
+ max-width: 100%;
+}
+.nav{
+    list-style-type: none;
+    display:flex;
+    max-width: 100%;
+    padding-left: 280px;
+    font-weight: 800;
+
+}
+.nav>li{
+  
+  padding:30px;
+}
+
+   
+
+.edu{
+    font-size: 1.5rem;
+}
+#sec4{
+    background-color: rgba(249, 249, 10, 0.132);
+    
+}
+
+.name{
+
+    font-family:'Times New Roman', Times, serif;
+    font-size: 3rem;
+    color:rgb(4, 16, 91);
+    
+}
+img{
+    border-radius: 50%;
+    height:200px;
+    width:200px;
+}
+body{
+    text-align: center;
+    background: linear-gradient(to right,rgb(250, 176, 250),rgb(254, 210, 217),rgb(165, 222, 250));
+    
+}
+a{
+    text-decoration: none;
+    color:black;
+    padding-left: 40px; 
+    font-size: 1.2rem; 
+    
+}
+.para{
+    width:50%;
+    margin-left: 410px;
+    font-size: 1.2rem;
+}
+.skills{
+    list-style-type: none;
+    font-size: 1.2rem;
+    
+
+}
+h1{
+    color: rgb(61, 26, 33);
+    padding-top: 20px;
+    
+}
+li{
+    padding-top: 10px;
+}
